@@ -1,8 +1,10 @@
-OpenVAS Automated Installation Script 🚀
+## OpenVAS Automated Installation Script 🚀
 This Python script automates the installation and setup of OpenVAS (Greenbone Vulnerability Management - GVM) on a Debian-based system (Ubuntu/Kali). It simplifies the process by handling package installation, service configuration, feed syncing, and user creation.
+
 
 Features
 ✅ Automated installation – Installs OpenVAS with all necessary dependencies.
+
 ✅ Service management – Starts and verifies OpenVAS services (gvmd, gsad, ospd-openvas).
 ✅ Feed synchronization – Ensures up-to-date vulnerability databases with retry logic.
 ✅ Admin account setup – Prompts for a secure password and initializes OpenVAS.
